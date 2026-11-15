@@ -1,0 +1,1 @@
+{"description":"Minimal working doodle video: locked doodle look, scene-by-scene animation, 3D depth. See README.md.","name":"doodle-video-demo","private":true,"scripts":{"check":"node tools/capture.mjs check","frames":"node tools/capture.mjs frames review/frames 1,5,10,15","preview":"node tools/capture.mjs preview","render":"bash render.sh"},"type":"module","version":"1.0.0"}

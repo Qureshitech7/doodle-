@@ -1,0 +1,23 @@
+{
+ "duration": 20.0,
+ "lines": [
+  {
+   "i": 0,
+   "text": "In 1987, in a small workshop in Porto, an inventor named Mara showed her brass flying machine to Theo, the town's richest merchant.",
+   "start": 0.0,
+   "end": 7.0
+  },
+  {
+   "i": 1,
+   "text": "The machine's heart was a tiny brass engine, no bigger than a teacup \u2014 and when Mara wound it, the whole workshop glowed.",
+   "start": 7.0,
+   "end": 13.5
+  },
+  {
+   "i": 2,
+   "text": "Theo laughed, stamped the paper APPROVED, and shook her hand. The flying machine was going to fly.",
+   "start": 13.5,
+   "end": 20.0
+  }
+ ]
+}
